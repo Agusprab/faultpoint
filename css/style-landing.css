@@ -1,0 +1,17 @@
+*{
+	font-family: 'Poppins', sans-serif;
+}
+nav.navbar-back{
+	background-color: #7f78d2;
+	transition: .4s;
+
+}
+
+
+a.col{
+color: red;
+}
+.navbar-light{
+	color: red;
+}
+
